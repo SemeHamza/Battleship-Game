@@ -2,9 +2,11 @@
 Traditional battleship game built using C++
 
   Description
+  
 Battleship is a guessing and strategy game which is played between two players. Owing to its long history, the game has numerous versions. However, I have chosen one of the most popular versions for the purpose of this project.
 
   Rules of the Game
+  
 The game is played on four 10×10 grids – two grids for each player. Usually, the individual squares on the grids are identified by letter and number.
 Before the game starts, each player secretly arranges his/her ships on one of his/her grids called primary grid. Each ship occupies a specific number of consecutive squares on the grid (depending on the type of the ship) and can be oriented either horizontally or vertically - but not diagonally. The ships cannot overlap. The types and numbers of ships allowed are the same for each player and are as follows:
 Number	Type of Ship	Size
